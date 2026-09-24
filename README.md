@@ -6,3 +6,6 @@
 <img width="960" height="600" alt="Screenshot 2026-09-24 183816" src="https://github.com/user-attachments/assets/19ea83c0-3515-48e0-ab63-45b36f23d4f6" />
 <img width="960" height="600" alt="Screenshot 2026-09-24 184132" src="https://github.com/user-attachments/assets/99c08b7b-5418-4ead-91b4-40a0e608dbc4" />
 <img width="960" height="600" alt="Screenshot 2026-09-24 184753" src="https://github.com/user-attachments/assets/c0571bcc-f3ba-49d3-bdab-35d58ced461a" />
+perulangan for yang mengulang angka 1 hingga 5 <img width="960" height="600" alt="Screenshot 2026-09-24 185159" src="https://github.com/user-attachments/assets/51819ea9-5be7-4a13-88e1-8c76a67d4cec" />
+Named arguments untuk meringkas kode <img width="960" height="600" alt="Screenshot 2026-09-24 185440" src="https://github.com/user-attachments/assets/a49e1200-6302-4282-9dc8-db4c0baf6064" />
+Default parameter values menentukan nilai default untuk parameter fungsi  <img width="960" height="600" alt="Screenshot 2026-09-24 185626" src="https://github.com/user-attachments/assets/26bd2c14-9783-4bdc-ab59-72f0ccd8fbbc" />
